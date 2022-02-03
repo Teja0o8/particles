@@ -1,2 +1,2 @@
 # particles
-A lightweight JavaScript library for creating particles.
+a lightweight javascript library for creating particles.
